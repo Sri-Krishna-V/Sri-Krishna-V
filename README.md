@@ -1,30 +1,19 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sri-Krishna-V&fontSize=80&animation=fadeIn" alt="Banner"/>
-</p>
+![banner](https://github.com/Sri-Krishna-V/Sri-Krishna-V/blob/main/assets/banner.gif?raw=true)
 
 <p align="center">
-  <a href="mailto:srikrishna.vundavalli@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sri-krishna-vundavalli">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/_.anhsirk_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Sri-Krishna-V" alt="Profile views"/>
+  <a href="mailto:srikrishna.vundavalli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/srikrishna-vundavalli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/_.anhsirk_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Sri-Krishna-V&style=for-the-badge&color=brightgreen" alt="Profile views"/>
 </p>
 
-<h2 align="center">👋 Hey, I'm Krishna</h2>
+# 👋 Hey, I'm Krishna
 
-<p align="center">B.Tech (3rd year), Electrical & Computer Engineering, Amrita Vishwa Vidyapeetham, Chennai<br/>
-Based in Ettimadai, TN, India | <b>AI agent dev, open-source enthusiast, and builder</b></p>
+**B.Tech (3rd year), Electrical & Computer Engineering, Amrita Vishwa Vidyapeetham, Chennai**  
+**Based in Ettimadai, TN, India | 🤖 AI agent dev, open-source enthusiast, and builder**
 
 <div align="center">
-  
   ═══════════════════════════════════════════════════════
-  
 </div>
 
 ## 🎯 **Who Am I?**
@@ -38,9 +27,7 @@ Based in Ettimadai, TN, India | <b>AI agent dev, open-source enthusiast, and bui
   - [Solar-ML-prediction](https://github.com/Sri-Krishna-V/Solar-ML-prediction): Solar power forecasting with ML
 
 <div align="center">
-  
   ═══════════════════════════════════════════════════════
-  
 </div>
 
 ## 💻 **Tech Stack:**
@@ -50,9 +37,7 @@ Based in Ettimadai, TN, India | <b>AI agent dev, open-source enthusiast, and bui
 </p>
 
 <div align="center">
-  
   ═══════════════════════════════════════════════════════
-  
 </div>
 
 ## 🚦 **My Open-Source Journey:**
@@ -61,9 +46,7 @@ Based in Ettimadai, TN, India | <b>AI agent dev, open-source enthusiast, and bui
 - 🏅 65+ stars on awesome-adk-agents
 
 <div align="center">
-  
   ═══════════════════════════════════════════════════════
-  
 </div>
 
 ## 📈 **GitHub Analytics Dashboard**
@@ -77,43 +60,12 @@ Based in Ettimadai, TN, India | <b>AI agent dev, open-source enthusiast, and bui
   <img src="https://github-profile-trophy.vercel.app/?username=Sri-Krishna-V&theme=radical&margin-w=15&margin-h=15" alt="Trophies"/>
 </p>
 
-### 🔥 **Dynamic Activity Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sri-Krishna-V&bg_color=0d1117&color=ffffff&line=ff6b6b&point=ffc107&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</p>
+## 🧩 Isometric Contribution Graph
 
-### 📊 **MyReadme Stats Panel**
-<p align="center">
-  <img src="https://myreadme.vercel.app/api/embed/Sri-Krishna-V?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark" alt="MyReadme Stats Dashboard" width="100%"/>
-</p>
+![Isometric Commit Calendar](https://metrics.lecoq.io/Sri-Krishna-V?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata)
 
 <div align="center">
-  
   ═══════════════════════════════════════════════════════
-  
-</div>
-
-## 🧠 **Latest Blog Posts**
-
-<p align="center">
-  <em>🚀 Ready to share insights on AI, automation, and development?</em>
-</p>
-
-> 📝 **Coming Soon:** Deep dives into multi-agent systems, context engineering, and the future of AI development.
-> 
-> 🔗 **Platforms to explore:**
-> - [**Dev.to**](https://dev.to/) - Developer community & technical articles
-> - [**Hashnode**](https://hashnode.com/) - Developer blogging platform
-> - [**Medium**](https://medium.com/) - Professional writing & thought leadership
-
-<p align="center">
-  <em>"Documentation is love letters to your future self and other developers."</em>
-</p>
-
-<div align="center">
-  
-  ═══════════════════════════════════════════════════════
-  
 </div>
 
 ## 🧑‍🔬 **Some Key Projects:**
@@ -125,27 +77,22 @@ Based in Ettimadai, TN, India | <b>AI agent dev, open-source enthusiast, and bui
 _*(See pinned repos above for more!)*_
 
 <div align="center">
-  
   ═══════════════════════════════════════════════════════
-  
 </div>
 
 ## 💡 **Fun Fact:**
+
 > *"Context engineering is the new vibe. Debug with coffee, automate with agents, build with vision."*
 
 <div align="center">
-  
   ═══════════════════════════════════════════════════════
-  
 </div>
 
 ## 🌐 **Let's Connect!**
-- [LinkedIn](https://www.linkedin.com/in/sri-krishna-vundavalli)
+- [LinkedIn](https://www.linkedin.com/in/srikrishna-vundavalli/)
 - [Instagram](https://www.instagram.com/_.anhsirk_/)
-- 📧 srikrishna.vundavalli@gmail.com
+- 📧 [srikrishna.vundavalli@gmail.com](mailto:srikrishna.vundavalli@gmail.com)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7F3FBF&center=true&width=435&lines=AI+Agent+Builder;Open-source+Enthusiast;Always+Learning+%26+Shipping" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Always+building+something+new+%F0%9F%9A%80;Open+to+collaboration+%F0%9F%A4%9D;Let's+create+the+future+together+%E2%9C%A8" alt="Typing SVG" />
 </p>
-
-<!--**Sri-Krishna-V/Sri-Krishna-V** is a ✨ _special_ ✨ repository to showcase your coder journey!-->
