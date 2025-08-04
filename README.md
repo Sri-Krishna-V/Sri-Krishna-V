@@ -1,4 +1,6 @@
-![banner](https://github.com/Sri-Krishna-V/Sri-Krishna-V/blob/main/assets/banner.gif?raw=true)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sri-Krishna-V&fontSize=80&animation=fadeIn" alt="Banner"/>
+</p>
 
 <p align="center">
   <a href="mailto:srikrishna.vundavalli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
