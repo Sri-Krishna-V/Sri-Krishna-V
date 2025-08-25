@@ -12,7 +12,7 @@
 # 👋 Hey, I'm Krishna
 
 **B.Tech (3rd year), Electrical & Computer Engineering, Amrita Vishwa Vidyapeetham, Chennai**  
-**Based in Ettimadai, TN, India | 🤖 AI agent dev, open-source enthusiast, and builder**
+**Based in Chennai, TN, India | 🤖 AI agent dev, open-source enthusiast, and builder**
 
 <div align="center">
   ═══════════════════════════════════════════════════════
