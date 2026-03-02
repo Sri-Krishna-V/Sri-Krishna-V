@@ -6,6 +6,7 @@
   <a href="mailto:srikrishna.vundavalli@gmail.com"><img src="https://img.shields.io/badge/Gmail-F25623?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/srikrishna-vundavalli/"><img src="https://img.shields.io/badge/LinkedIn-4D4D4D?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://www.instagram.com/_.anhsirk_/"><img src="https://img.shields.io/badge/Instagram-F25623?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;
+  <a href="https://huggingface.co/anhsirk"><img src="https://img.shields.io/badge/Hugging%20Face-4D4D4D?style=flat-square&logo=huggingface&logoColor=white"/></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Sri-Krishna-V&style=flat-square&color=171717&labelColor=F25623&label=PROFILE+VIEWS"/>
 </p>
 
@@ -37,7 +38,7 @@ GitHub: Starstruck ×2 · Quickdraw · Pull Shark
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,fastapi,postgres,sqlite,neo4j,dart,git,jupyter,vscode,github,html,css&perline=9&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,html,css,pytorch,jupyter,react,nextjs,fastapi,flutter,tailwind,threejs,postgres,sqlite,neo4j,redis,supabase,docker,vercel,gcp,git,github,vscode&perline=9&theme=dark"/>
 </p>
 
 ---
