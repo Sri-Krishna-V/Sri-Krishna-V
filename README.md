@@ -13,7 +13,10 @@
 
 <table>
 <tr>
-<td valign="top" width="58%">
+<td valign="top" height="50%" width="50%" align="center">
+  <img src="img/madara.gif" width="100%" alt="Madara"/>
+</td>
+<td valign="top" width="50%">
 
 ### Sri Krishna V
 
@@ -25,9 +28,6 @@ GitHub: Starstruck ×2 · Quickdraw · Pull Shark
 
 [@North-Of-Ordinary](https://github.com/North-Of-Ordinary) · [@SupaNovaTech](https://github.com/SupaNovaTech) · [@ELITE-Club-Amrita](https://github.com/ELITE-Club-Amrita) 
 
-</td>
-<td valign="top" width="42%" align="center">
-  <img src="img/madara.gif" width="100%" alt="Madara"/>
 </td>
 </tr>
 </table>
