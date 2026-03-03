@@ -88,7 +88,7 @@ GitHub: Starstruck ×2 · Quickdraw · Pull Shark
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=2000&color=F25623&center=true&vCenter=true&width=600&lines=Stop+here%2C+traveller..;You+deserve+some+rest." alt="Stop here traveller"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&pause=1000&color=F25623&center=true&vCenter=true&width=600&lines=Stop+here%2C+traveller..;You+deserve+some+rest." alt="Stop here traveller"/>
 </p>
 
 <p align="center">
