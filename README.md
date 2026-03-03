@@ -20,7 +20,7 @@
 <td valign="top" width="50%" align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font==Pixelify+Sans&size=22&duration=1&pause=100000&color=CC3300&center=true&vCenter=true&repeat=false&width=500&height=100&lines=Sri-Krishna-V" alt="Sri Krishna V"/><br>
+  <img src="https://readme-typing-svg.demolab.com?font==Pixelify+Sans&size=30&duration=1&pause=100000&color=CC3300&center=true&vCenter=true&repeat=false&width=500&height=100&lines=Sri-Krishna-V" alt="Sri Krishna V"/><br>
   Agentic AI Developer | Software Engineer | AI Research Enthusiast
 </div>
 
