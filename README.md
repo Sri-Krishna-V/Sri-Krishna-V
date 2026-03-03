@@ -21,7 +21,7 @@
 
 <div align="center">
   <img src="img/name.png" alt="Sri Krishna V" width="50%"><br>
-  Agentic AI Developer | Open Source Enthusiast | Tech Explorer
+  Agentic AI Developer | Software Engineer | AI Research Enthusiast
 </div>
 
 **250+ stars** on [awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
