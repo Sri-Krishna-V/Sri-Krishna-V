@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/srikrishna-vundavalli/"><img src="https://img.shields.io/badge/LinkedIn-4D4D4D?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://www.instagram.com/_.anhsirk_/"><img src="https://img.shields.io/badge/Instagram-F25623?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;
   <a href="https://huggingface.co/anhsirk"><img src="https://img.shields.io/badge/Hugging%20Face-4D4D4D?style=flat-square&logo=huggingface&logoColor=white"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Sri-Krishna-V&style=flat-square&color=171717&labelColor=F25623&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Sri-Krishna-V&style=flat-square&color=F25623&labelColor=F25623&label=PROFILE+VIEWS"/>
 </p>
 
 ---
