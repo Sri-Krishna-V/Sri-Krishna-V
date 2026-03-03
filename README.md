@@ -20,7 +20,7 @@
 <td valign="top" width="50%" align="center">
 
 <div align="center">
-  <img src="img/name.png" alt="Sri Krishna V" width="50%"><br>
+  <img src="https://readme-typing-svg.demolab.com?font==Pixelify+Sans&size=22&duration=1&pause=100000&color=CC3300&center=true&vCenter=true&repeat=false&width=500&height=100&lines=Sri-Krishna-V" alt="Sri Krishna V"/><br>
   Agentic AI Developer | Software Engineer | AI Research Enthusiast
 </div>
 
@@ -88,5 +88,9 @@ GitHub: Starstruck ×2 · Quickdraw · Pull Shark
 
 ---
 <p align="center">
-  <img src="img/end_2.gif" width="100%" alt="Footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=2000&color=F25623&center=true&vCenter=true&width=600&lines=Stop+here%2C+traveller..;You+deserve+some+rest." alt="Stop here traveller"/>
+</p>
+
+<p align="center">
+  <img src="img/end.png" width="100%" alt="Footer"/>
 </p>
