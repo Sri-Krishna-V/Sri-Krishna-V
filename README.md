@@ -19,9 +19,10 @@
 </td>
 <td valign="top" width="50%" align="center">
 
-<p align="center"><img src="img/name.png" alt="Sri Krishna V" width="50%"/></p>
-
-Agentic AI Developer | Open Source Enthusiast | Tech Explorer
+<div align="center">
+  <img src="img/name.png" alt="Sri Krishna V" width="50%"><br>
+  Agentic AI Developer | Open Source Enthusiast | Tech Explorer
+</div>
 
 **250+ stars** on [awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
 
@@ -35,16 +36,16 @@ GitHub: Starstruck ×2 · Quickdraw · Pull Shark
 
 ---
 
-<p align="center">
-  <img src="img/tech_stack.png" alt="Tech Stack" width="160"/><br>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,html,css,pytorch,jupyter,react,nextjs,fastapi,flutter,tailwind,threejs,postgres,sqlite,neo4j,redis,supabase,docker,vercel,gcp,git,github,vscode&perline=9&theme=dark"/>
-</p>
+<div align="center">
+  <img src="img/tech_stack.png" alt="Tech Stack" width="160"><br>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,html,css,pytorch,jupyter,react,nextjs,fastapi,flutter,tailwind,threejs,postgres,sqlite,neo4j,redis,supabase,docker,vercel,gcp,git,github,vscode&perline=9&theme=dark">
+</div>
 
 ---
 
-<p align="center">
-  <img src="img/projects.png" alt="Projects" width="160"/>
-</p>
+<div align="center">
+  <img src="img/projects.png" alt="Projects" width="160"><br>
+</div>
 
 **AI · Agents · LLM**
 
@@ -71,19 +72,19 @@ GitHub: Starstruck ×2 · Quickdraw · Pull Shark
 | [![Bingo-Webapp-Game](https://img.shields.io/badge/Bingo--Webapp--Game-F25623?style=flat-square&logoColor=white)](https://github.com/Sri-Krishna-V/Bingo-Webapp-Game) | Bingo web app — React + TypeScript + Vite |
 
 ---
+<div align="center">
+  <img src="img/contribution.png" alt="Contribution" width="160"><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sri-Krishna-V&bg_color=171717&color=DEDEDE&line=F25623&point=F25623&area_color=F25623&area=true&hide_border=false" alt="Activity Graph">
+</div>
 
-<p align="center">
-  <img src="img/contribution.png" alt="Contribution" width="160"/><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sri-Krishna-V&bg_color=171717&color=DEDEDE&line=F25623&point=F25623&area_color=F25623&area=true&hide_border=false" alt="Activity Graph"/>
-</p>
-
-<p align="center">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sri-Krishna-V/Sri-Krishna-V/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sri-Krishna-V/Sri-Krishna-V/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Sri-Krishna-V/Sri-Krishna-V/output/github-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sri-Krishna-V/Sri-Krishna-V/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sri-Krishna-V/Sri-Krishna-V/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sri-Krishna-V/Sri-Krishna-V/output/github-snake.svg">
   </picture>
-</p>
+</div>
+
 
 ---
 <p align="center">
