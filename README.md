@@ -17,9 +17,9 @@
 <td valign="top" height="50%" width="50%" align="center">
   <img src="img/madara.gif" width="100%" alt="Madara"/>
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
-### Sri Krishna V
+<p align="center"><img src="img/name.png" alt="Sri Krishna V" width="50%"/></p>
 
 Agentic AI Developer | Open Source Enthusiast | Tech Explorer
 
@@ -35,15 +35,16 @@ GitHub: Starstruck ×2 · Quickdraw · Pull Shark
 
 ---
 
-## Tech Stack
-
 <p align="center">
+  <img src="img/tech_stack.png" alt="Tech Stack" width="160"/><br>
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,html,css,pytorch,jupyter,react,nextjs,fastapi,flutter,tailwind,threejs,postgres,sqlite,neo4j,redis,supabase,docker,vercel,gcp,git,github,vscode&perline=9&theme=dark"/>
 </p>
 
 ---
 
-## Projects
+<p align="center">
+  <img src="img/projects.png" alt="Projects" width="160"/>
+</p>
 
 **AI · Agents · LLM**
 
@@ -71,9 +72,8 @@ GitHub: Starstruck ×2 · Quickdraw · Pull Shark
 
 ---
 
-## Contributions
-
 <p align="center">
+  <img src="img/contribution.png" alt="Contribution" width="160"/><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sri-Krishna-V&bg_color=171717&color=DEDEDE&line=F25623&point=F25623&area_color=F25623&area=true&hide_border=false" alt="Activity Graph"/>
 </p>
 
@@ -86,7 +86,6 @@ GitHub: Starstruck ×2 · Quickdraw · Pull Shark
 </p>
 
 ---
-
 <p align="center">
-  <img src="img/end.gif" width="100%" alt="Footer"/>
+  <img src="img/end_2.gif" width="100%" alt="Footer"/>
 </p>
