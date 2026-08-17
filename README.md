@@ -40,7 +40,7 @@ Chennai · Amrita Vishwa Vidyapeetham, Coimbatore
 
 <div align="center">
   <img src="img/tech_stack.png" alt="Tech Stack" width="160"><br>
-  <img src="https://skillicons.dev/icons?i=go,python,ts,js,java,dart,html,css,tensorflow,jupyter,react,nextjs,fastapi,flutter,tailwind,threejs,postgres,sqlite,neo4j,redis,supabase,docker,vercel,gcp,git,github,vscode&perline=9&theme=dark">
+  <img src="https://skillicons.dev/icons?i=go,python,ts,js,java,dart,html,css,tensorflow,react,nextjs,tailwind,threejs,flutter,nodejs,fastapi,postgres,sqlite,redis,supabase,docker,kubernetes,vercel,gcp,git,github,vscode&perline=9&theme=dark">
 </div>
 
 ---
