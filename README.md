@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/srikrishna-vundavalli/"><img src="https://img.shields.io/badge/LinkedIn-4D4D4D?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://www.instagram.com/_.anhsirk_/"><img src="https://img.shields.io/badge/Instagram-F25623?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;
   <a href="https://huggingface.co/anhsirk"><img src="https://img.shields.io/badge/Hugging%20Face-4D4D4D?style=flat-square&logo=huggingface&logoColor=white"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Sri-Krishna-V&style=flat-square&color=F25623&labelColor=F25623&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Sri-Krishna-V&style=flat-square&color=F25623&labelColor=171717&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -24,7 +24,8 @@
   the agents do the work. i take the blame.
 </div>
 
-**336 stars · 49 forks** on [awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
+<a href="https://github.com/Sri-Krishna-V/awesome-adk-agents"><img src="https://img.shields.io/github/stars/Sri-Krishna-V/awesome-adk-agents?style=flat-square&color=F25623&labelColor=171717&label=awesome-adk-agents"/></a>
+<a href="https://github.com/Sri-Krishna-V/awesome-adk-agents/forks"><img src="https://img.shields.io/github/forks/Sri-Krishna-V/awesome-adk-agents?style=flat-square&color=4D4D4D&labelColor=171717&label=forks"/></a>
 
 GitHub: Starstruck ×2 · Pull Shark ×2 · Pair Extraordinaire ×2 · Quickdraw · YOLO
 
@@ -49,18 +50,22 @@ Chennai · Amrita Vishwa Vidyapeetham, Coimbatore
   <img src="img/projects.png" alt="Projects" width="160"><br>
 </div>
 
-**Systems · Security · Observability**
+<details open>
+<summary><b>Systems · Security · Observability</b> &nbsp;<code>2</code></summary>
 
 | Project | Description |
 | --- | --- |
 | [![auspex](https://img.shields.io/badge/auspex-F25623?style=flat-square&logoColor=white)](https://github.com/Sri-Krishna-V/auspex) | Endpoint sensor for AI coding agents: normalizes hooks, OTLP & on-disk transcripts from 27 agents into one event model, 51 CEL detection rules, blocks an action before it runs. Written in Go |
 | [![argus](https://img.shields.io/badge/argus-F25623?style=flat-square&logoColor=white)](https://github.com/Sri-Krishna-V/argus) | Enterprise Research OS: continuously ingests public financial knowledge into a graph-linked platform with full provenance. Python 3.12, Postgres 16 + pgvector, FastAPI |
 
-**AI · Agents · LLM**
+</details>
+
+<details open>
+<summary><b>AI · Agents · LLM</b> &nbsp;<code>7</code></summary>
 
 | Project | Description |
 | --- | --- |
-| [![awesome-adk-agents](https://img.shields.io/badge/awesome--adk--agents-F25623?style=flat-square&logoColor=white)](https://github.com/Sri-Krishna-V/awesome-adk-agents) | Curated Google ADK agent templates, best practices & production-ready examples. 336 stars, 49 forks |
+| [![awesome-adk-agents](https://img.shields.io/badge/awesome--adk--agents-F25623?style=flat-square&logoColor=white)](https://github.com/Sri-Krishna-V/awesome-adk-agents) | Curated Google ADK agent templates, best practices & production-ready examples for research, business, automation & education |
 | [![Derived-WMD](https://img.shields.io/badge/Derived--WMD-F25623?style=flat-square&logoColor=white)](https://github.com/Sri-Krishna-V/Derived-WMD) | Agentic Generative UI: natural language → production-ready React apps via autonomous Tambo agents, MCP codebase grounding & E2B sandboxed execution |
 | [![Guiden](https://img.shields.io/badge/Guiden-F25623?style=flat-square&logoColor=white)](https://github.com/Sri-Krishna-V/Guiden) | AI career development assistant: CrewAI multi-agent system, mem0 long-term memory, Firecrawl web intelligence & LiveKit voice interviews |
 | [![Schneider_Hack](https://img.shields.io/badge/Schneider__Hack-F25623?style=flat-square&logoColor=white)](https://github.com/Sri-Krishna-V/Schneider_Hack) | AI platform generating regulation-aware, traceable test cases from requirement docs for healthcare & regulated industries |
@@ -68,7 +73,10 @@ Chennai · Amrita Vishwa Vidyapeetham, Coimbatore
 | [![Nikoness](https://img.shields.io/badge/Nikoness-F25623?style=flat-square&logoColor=white)](https://github.com/Sri-Krishna-V/Nikoness) | Intelligent document search & retrieval with Haystack AI, Gemini 2.5 & Qdrant |
 | [![Elu](https://img.shields.io/badge/Elu-F25623?style=flat-square&logoColor=white)](https://github.com/Sri-Krishna-V/Elu) | Chrome extension making any web article accessible: on-device LLM via WebGPU, zero cloud, zero backend. Built for dyslexia, ADHD & low vision |
 
-**Research · ML**
+</details>
+
+<details>
+<summary><b>Research · ML</b> &nbsp;<code>5</code></summary>
 
 | Project | Description |
 | --- | --- |
@@ -78,7 +86,10 @@ Chennai · Amrita Vishwa Vidyapeetham, Coimbatore
 | [![slake_vqa_internvl_finetune](https://img.shields.io/badge/slake__vqa__internvl__finetune-4D4D4D?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/anhsirk/slake_vqa_internvl_finetune) | InternVL fine-tuned on SLAKE for medical visual question answering, 0.9B params |
 | [![Solar-ML-prediction](https://img.shields.io/badge/Solar--ML--prediction-F25623?style=flat-square&logoColor=white)](https://github.com/Sri-Krishna-V/Solar-ML-prediction) | Solar energy output prediction with classical ML regressors |
 
-**Languages · Compilers · Algorithms**
+</details>
+
+<details>
+<summary><b>Languages · Compilers · Algorithms</b> &nbsp;<code>3</code></summary>
 
 | Project | Description |
 | --- | --- |
@@ -86,7 +97,10 @@ Chennai · Amrita Vishwa Vidyapeetham, Coimbatore
 | [![Kex](https://img.shields.io/badge/Kex-F25623?style=flat-square&logoColor=white)](https://github.com/Sri-Krishna-V/Kex) | My own programming language, inspired by Python |
 | [![Smaze](https://img.shields.io/badge/Smaze-F25623?style=flat-square&logoColor=white)](https://github.com/Sri-Krishna-V/Smaze) | Maze generator & solver: DFS, BFS, A\*, Dijkstra |
 
-**Apps · Platforms · Tools**
+</details>
+
+<details>
+<summary><b>Apps · Platforms · Tools</b> &nbsp;<code>11</code></summary>
 
 | Project | Description |
 | --- | --- |
@@ -102,7 +116,10 @@ Chennai · Amrita Vishwa Vidyapeetham, Coimbatore
 | [![Food_Delivery_System](https://img.shields.io/badge/Food__Delivery__System-F25623?style=flat-square&logoColor=white)](https://github.com/Sri-Krishna-V/Food_Delivery_System) | Full-stack food delivery system, built to teach myself OOP |
 | [![Docker-Workshop](https://img.shields.io/badge/Docker--Workshop-F25623?style=flat-square&logoColor=white)](https://github.com/Sri-Krishna-V/Docker-Workshop) | Workshop I ran on containerizing a full-stack app: Dockerfiles, Compose, container networking, Docker Hub |
 
-**Hackathons · Collaborations**
+</details>
+
+<details>
+<summary><b>Hackathons · Collaborations</b> &nbsp;<code>4</code></summary>
 
 | Project | My share | What it is |
 | --- | --- | --- |
@@ -111,13 +128,11 @@ Chennai · Amrita Vishwa Vidyapeetham, Coimbatore
 | [![Judicium](https://img.shields.io/badge/Judicium-4D4D4D?style=flat-square&logoColor=white)](https://github.com/Keerthivasan-Venkitajalam/Courtroom-Video-Analyzer-Agent) | 2nd | Real-time agent querying live courtroom video at sub-500ms: Stream, Twelve Labs, Deepgram & Gemini Live |
 | [![Recall](https://img.shields.io/badge/Recall-4D4D4D?style=flat-square&logoColor=white)](https://github.com/Keerthivasan-Venkitajalam/Recall) | 3rd | Self-learning data agent delivering insights, not SQL. 6 layers of context grounding. MCP, FastAPI, Postgres + pgvector, Gemini |
 
+</details>
+
 ---
 <div align="center">
   <img src="img/contribution.png" alt="Contribution" width="160"><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sri-Krishna-V&bg_color=171717&color=DEDEDE&line=F25623&point=F25623&area_color=F25623&area=true&hide_border=false" alt="Activity Graph">
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sri-Krishna-V/Sri-Krishna-V/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sri-Krishna-V/Sri-Krishna-V/output/github-snake.svg">
